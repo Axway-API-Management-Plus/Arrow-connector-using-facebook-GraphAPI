@@ -3,7 +3,7 @@ You want to use Arrow to track who likes your posts on Facebook
 
 ## API Management Version Compatibilty
 This artefact was successfully tested for the following versions:
-- Arrow (to be completed)
+- Arrow 1.8.6
 
 
 ## Install
